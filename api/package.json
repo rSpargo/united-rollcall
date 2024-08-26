@@ -1,0 +1,12 @@
+{
+  "name": "united-rollcall-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Spargo",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  }
+}
